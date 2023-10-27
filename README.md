@@ -1,2 +1,2 @@
 # simple-website
-the website i coded using html css js php as practice
+the first website i coded using html css js php as practice
